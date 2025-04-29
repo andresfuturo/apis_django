@@ -3,5 +3,5 @@ from patinoApp.api.views import AutomovilViewSet
 
 
 router_automovil = DefaultRouter()
-router_automovil.register(prefix='automovil', basename='automovil', viewset=AutomovilViewSet)
+router_automovil.register(prefix='automoviles', basename='automovil', viewset=AutomovilViewSet)
 
