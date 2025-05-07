@@ -13,7 +13,7 @@ Este proyecto es una API REST desarrollada con Django y Django Rest Framework pa
 
 1. **Clonar el repositorio**
    ```bash
-  git clone https://github.com/ANDRES-FLORIAN-SALAZAR/PUNTOEXTRA.git](https://github.com/andresfuturo/apis_django.git
+(https://github.com/andresfuturo/apis_django.git](https://github.com/andresfuturo/apis_django.git)
    cd gestion-automoviles
    ```
 
